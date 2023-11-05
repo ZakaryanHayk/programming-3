@@ -213,5 +213,6 @@ function draw() {
 
 }
 
-console.log('Hello')
-
+let erexa1 = new Child("Hayk",14,"male");
+console.log(erexa1)
+erexa1.walk()
